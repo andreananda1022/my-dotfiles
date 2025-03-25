@@ -1,0 +1,23 @@
+{
+  "breadcrumbs.enabled": false,
+  "editor.codeLens": false,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "underline",
+  "editor.fontFamily": "Cascadia Code, Consolas, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 20,
+  "editor.lineHeight": 2,
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.colorTheme": "Aura Dracula Spirit",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.tree.renderIndentGuides": "none"
+}
